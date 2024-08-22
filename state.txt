@@ -1,0 +1,15 @@
+X O Aisle O X O Aisle X 
+O O Aisle O O O Aisle O 
+O O Aisle O O O Aisle O 
+O O Aisle O O O Aisle O 
+O O Aisle O O O Aisle O 
+O O Aisle O O O Aisle O 
+O O Aisle O O O Aisle O 
+O O Aisle O O O Aisle O 
+O O Aisle O O O Aisle O 
+O O Aisle O O O Aisle O 
+O O Aisle O O O Aisle O 
+O O Aisle O O O Aisle O 
+tarif E0
+kol A0
+bob H0

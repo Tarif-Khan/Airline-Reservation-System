@@ -1,0 +1,9 @@
+For my approach here is what I did :
+
+First I created a list of functions I would need in functions.h and on paper based on the HW prompt.
+Then I created functions.cpp and started off with displaying the menus and the simple ones.
+Then I designed the logic and how I was going to implement the plane's seating structure. Aisle logic was difficult.
+Then I implemented the logic with 0 indexing and letter indexing for a seat code and parsing that seat code for my logic in general.
+Then I finished off my main function by making sure it doesnt end unless the user hits quit and I was done with my program after testing.
+
+Loading the state can be iffy.
